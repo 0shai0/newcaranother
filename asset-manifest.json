@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/newcaranother/static/css/main.e5f31a5f.css",
-    "main.js": "/newcaranother/static/js/main.ff1a04a1.js",
+    "main.css": "/newcaranother/static/css/main.8a1df076.css",
+    "main.js": "/newcaranother/static/js/main.264849ee.js",
     "static/js/787.917857b7.chunk.js": "/newcaranother/static/js/787.917857b7.chunk.js",
     "index.html": "/newcaranother/index.html",
-    "main.e5f31a5f.css.map": "/newcaranother/static/css/main.e5f31a5f.css.map",
-    "main.ff1a04a1.js.map": "/newcaranother/static/js/main.ff1a04a1.js.map",
+    "main.8a1df076.css.map": "/newcaranother/static/css/main.8a1df076.css.map",
+    "main.264849ee.js.map": "/newcaranother/static/js/main.264849ee.js.map",
     "787.917857b7.chunk.js.map": "/newcaranother/static/js/787.917857b7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5f31a5f.css",
-    "static/js/main.ff1a04a1.js"
+    "static/css/main.8a1df076.css",
+    "static/js/main.264849ee.js"
   ]
 }
